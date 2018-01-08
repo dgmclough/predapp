@@ -28,5 +28,5 @@ Steps to Run the web application locally
 8. To get the application running use the command: python run.py
 9. Open the browser and go to "localhost:5000"
 
-The Application is also currently hosted on heroku at "https://predapp.herokuapp.com"
+The Application is also currently hosted on heroku at "https://predatour.herokuapp.com"
 
